@@ -32,5 +32,5 @@ Total Orders = DISTINCTCOUNT(superstore_india_sample_v2[Order ID])
 Total Customers = DISTINCTCOUNT(superstore_india_sample_v2[Customer ID])
 ```
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![E-Commerce Dashboard](edashboard.png)
