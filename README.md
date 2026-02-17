@@ -16,10 +16,10 @@ The dashboard provides key insights such as *Sales, Profit, Orders, Customers, a
   Sales by Region  
 
 ## Tools & Technologies Used
-- Power BI
-- DAX (Measures)
-- CSV Dataset
-- Data Cleaning & Data Modeling
+- *Power BI*
+- *DAX (Measures)*
+- *CSV Dataset*
+- *Data Cleaning & Data Modeling*
 
 ## DAX Measures Used
 ```DAX
