@@ -31,6 +31,10 @@ Total Orders = DISTINCTCOUNT(superstore_india_sample_v2[Order ID])
 
 Total Customers = DISTINCTCOUNT(superstore_india_sample_v2[Customer ID])
 ```
-
+## How to Use
+1. Download the .pbix file
+2. Open in *Power BI Desktop*
+3. Interact using slicers (Region / Segment)
+   
 ## Dashboard Preview
 ![E-Commerce Dashboard](edashboard.png)
